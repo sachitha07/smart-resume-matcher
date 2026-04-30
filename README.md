@@ -156,3 +156,9 @@ This uses a local neural model (no API calls) and provides better semantic under
 - **PDF Parsing**: pdfplumber
 
 ---
+
+## Author
+
+Sachitha Ravichandran
+
+---
